@@ -1,0 +1,108 @@
+GLEVNW01
+BOARD 0 0 64 0 f/f/f/f/f/f/f/f/E/CpCpCpCpEbf/E/CpCpCpCpCpCpCpCpCpCpCpE4CrCrCrCrCrDVf/f/f/f/f/f/f/f/EQEhEiEjf/f/f/f/f/f/f/EQEhEiD+F/ACADf/f/f/f/
+BOARD 0 1 64 0 f/f/f/f/f/f/f/E/E4CrCrCrCrELCpE4CrCrCrCrCrCrCrCrCrCrCrCrEtCrCrCrENEdf/f/f/f/f/f/f/f/EQERESETf/f/f/f/f/f/f/EQERESETf/ASATf/f/f/f/
+BOARD 0 2 64 0 f/f/f/f/f/f/E/E4CrCrEtCrCrCrCrCrCrCrEtCrCrEtCrENCoEMCrEtCrCrCrENEdf/f/f/f/f/f/f/f/f/EQEhEiEjf/f/AAABf/f/f/EQEhEiEjf/f/f/f/f/f/f/
+BOARD 0 3 64 0 f/f/f/f/f/E/E4CrENCoCoCoCoCoCoCoEMCrENCoCoCoCoEdf/EcCoCoCoCoCoEdf/f/f/f/f/f/f/f/f/f/EQERESETf/f/f/f/AQf/f/EQERESETf/f/f/f/f/f/f/
+BOARD 0 4 64 0 f/f/f/f/E/E4CrENEdf/f/f/f/f/f/f/EcCoEdf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/KlKmf/f/f/EQEhEiEjf/AQf/f/f/f/f/EQEhEiEjf/f/f/f/f/f/f/
+BOARD 0 5 64 0 f/f/f/E/E4CrENEdf/DwCfCeCfCeCfCeCfCeCfCeCfCeCfCeCfCeCfCeCfCeEFf/f/f/f/f/f/K1K2f/f/f/EQERESETf/f/AAABf/f/f/EQERESETf/f/f/AAABf/f/
+BOARD 0 6 64 0 f/f/E/E4CrENEdf/DwDWCuCvCuCvCuCvCuCvCuCvCuCvCuCvCuCvCuCvCuCvDdEFf/f/f/f/f/f/f/f/f/f/EQEhEiEjf/f/f/f/f/f/f/EQEhEiEjf/f/f/f/f/f/f/
+BOARD 0 7 64 0 f/f/EQCrCrDVf/DwDWDyCZCYCZCYCZCYCZCYCZCYCZCYCZCYCZCYCZCYCZCYEDDdEFf/f/f/f/f/f/f/f/f/EQERESETf/f/f/f/f/f/f/EQERESETf/ACADf/f/f/f/
+BOARD 0 8 64 0 f/f/EQEtCrDVDwDWDyDzC/C+C/C+C/C+C/C+C/C+C/C+C/C+C/C+C/C+C/C+ECEDDdEFf/f/f/f/f/f/f/f/EQEhEiEjf/ACADAQf/f/f/EQEhEiEjf/ASATf/f/f/f/
+BOARD 0 9 64 0 f/f/EQCrCrDVDWDyDzD0CoCoCoCoCoCoCoCoCoCoCoCoCoCoCoCoCoCoCoCoEBECEDDdf/f/f/f/f/AAABf/EQERESETf/ASATf/f/f/DsD8ERESD7f/f/f/f/f/f/f/
+BOARD 0 10 64 0 f/f/EcEMCrDVDSDTDUDVBABBBCBDBDBDBDBFBGBHf/AAABf/f/ACADAAABf/EQERESETf/f/f/f/f/f/f/f/EQEhEiEjAAABAAABf/DsD8C7DeD7f/f/f/f/f/f/f/f/
+BOARD 0 11 64 0 f/f/f/EQCrDVDiDjDkDVBQBRBSBTBUBUBTBVBRBXBgBgBgBgARASATf/AAABEQEhEiEjf/AAARf/f/f/f/f/EQERESETf/AAABf/DsD8C7DeD7f/f/f/f/f/f/f/AAAB
+BOARD 0 12 64 0 f/f/E/E4CrDVDSDTDUDVBQBRBSBUBUBUBUBVBRBXBwBwBwBwAgADACADf/f/EQERESETf/f/Agf/f/f/f/f/EQEhEiEjf/f/f/DsD8C7DeD7f/f/f/f/f/f/f/f/f/f/
+BOARD 0 13 64 0 f/f/EQCrCrDVDiDjDkDVBQBRBSBUBUBUBUBVBRBX5r5s5tAQARATASATf/f/EQEhEiEjf/f/ARf/f/f/f/f/EQERESETf/f/DsD8C7DeD7f/f/f/f/f/f/AQf/f/f/f/
+BOARD 0 14 64 0 f/f/EQEtCrDVDSDTDUDVBQBRBSBTBUBUBTBVBRBX575859ByAgf/f/f/f/f/EQERESETf/f/Ahf/f/f/c+f/EQEhEiEjf/DsD8C7DeD7f/f/f/f/f/AAABf/f/f/f/f/
+BOARD 0 15 64 0 f/f/EQCrCrDVDiDjDkDVBQBhBiBjBjBjBjBWCkCl6L6M6NCSARf/AAABf/f/EQEhEiEjf/f/f/f/f/f/f/f/EQERESETDsD8C7DeD7f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 16 64 0 f/E/E4CrCrDVDSDTDUDVBQBxBRBRBRBRBRBRC0ClCPCPCSf/Ahf/f/f/f/AAEQERESETf/f/f/f/f/f/f/f/EQEhEiEjD8C7DeD7f/f/f/f/AAABf/f/f/AAABf/f/f/
+BOARD 0 17 64 0 E/E4CrCrCrDVDiDjDkDVCACBBRBRBkBlBmBnDEDFCPCSAwAxf/f/f/ABf/f/EQEhEiEjf/f/f/cqcrf/f/f/EQERESDyC7DeD7f/f/f/f/f/f/f/f/f/f/f/AQf/f/f/
+BOARD 0 18 64 0 EQCrEtEtCrDVDSDTDUDVCQCRCRCRB0B1B2B3CRBzCCAwAxf/f/f/ABAAABf/EQERESETABf/f/c6c7f/f/f/EQEhEiDuDvD7f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 19 64 0 EcEMCrCrCrDVDiDjDkDVCgChCiCjCECFCGCHNqCDCCf/AwAxf/AAf/f/ABf/EQEhEiEjf/f/f/f/f/f/f/f/EQERDuDvD7f/f/f/f/YfYHYIU4U5YIYJYff/f/f/f/f/
+BOARD 0 20 64 0 f/EcEMCrCrDVDSDTDUDVCwCxCyCzCUCVCWCXN6CTCSAwAxf/cKcLf/FKFLf/EQERESETf/f/f/f/f/f/f/DsD8C7D+D7f/f/f/f/f/YvYXYYVYVZYYYZYvf/f/f/f/f/
+BOARD 0 21 64 0 f/f/EQCrCrDVDiDjDkDVf/f/f/ABBEAwAxBEf/f/AwAxf/f/cacbf/FaFbf/EQEhEiEjf/f/f/f/DsCpCpD8C7D+D7f/f/f/f/f/f/YvYKYcYcYcYcYLYvf/f/f/f/f/
+BOARD 0 22 64 0 f/f/EQCrCrDVDSDTDUDVAAABf/AAAwAxAwAxAwAxAwAxAwAxAwAxf/f/f/f/EQERESETAiAjf/DsD8C5C6C7DeD7f/f/f/f/f/f/f/YvZ2Z3Z3Z3Z3Z4Yvf/f/f/f/f/
+BOARD 0 23 64 0 f/f/EQCrEtDVDiDjDkDVf/f/ABf/f/f/f/AwAxAwAxAwAxAwAxAwAxf/f/f/EQEhEiEjAyAzDsD8C7DJDKDeD7f/f/f/f/AAABf/f/YvaGaHaHaHaHaIYvf/f/f/f/f/
+BOARD 0 24 64 0 f/f/EQCrCrDVDSDTC4D3CpCpCpCpCpCpCpCpCpCpCpCpCpEbAwAxDsCpCpCpD8C7DOETc+f/EQERE3D5D6D7f/f/f/f/f/f/f/f/f/Y/f/f/f/f/f/f/Y/f/f/f/f/f/
+BOARD 0 25 64 0 f/f/EQCrCrDVDiDYDIC4C5C6C5C6C5C6C5C6C5C6C5C6C5D3CpCpD8C6C5C6C7DeDbDff/c+EQEhETf/f/f/f/f/f/ACADf/f/f/f/f/f/f/f/f/f/ACADf/f/f/f/f/
+BOARD 0 26 64 0 f/f/EQCrCrDVD4GADYDIDJDKDJDKDJDKDJDKDJDKDJDKDJioipiqirDKDJDKDLDuDvF/c+f/EQEREjf/f/f/AAABf/ASATf/f/f/f/f/f/f/f/f/f/ASATf/f/f/f/f/
+BOARD 0 27 64 0 f/f/EQCrCrELEbD4DoDYDZDaDZDaDZDaDZDaDZDaDZDaDZi4i5i6i7DaDZDaDbD+F/KlKmf/EQEhETf/f/f/f/f/f/f/f/f/f/f/f/LIdxdxKrf/f/f/f/f/f/f/f/f/
+BOARD 0 28 64 0 f/f/EcEMCrCrELEbD4DoDpDqDpDqDpDqDpDqDpDqDpDqDpjIjJjKjLDqDpDqDvF/f/K1K2f/EQEREjEFf/f/f/f/f/f/f/f/f/f/f/LoLpLpLLf/f/f/f/f/f/f/f/f/
+BOARD 0 29 64 0 f/f/f/EcEMEtCrELEbD4D5D6D5D6D5D6D5D6D5D6D5D6D5jYjZjajbD6D5D6F/f/f/f/f/f/EAEBECEEEFf/f/AAABf/f/AAABf/f/f/f/AAABf/f/f/f/AAABf/f/f/
+BOARD 0 30 64 0 f/f/f/f/EcEMCrCrELCpCpEbf/f/f/f/Z2Z3Z4f/IAIBf/EQCqCrDVf/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/AQAAABf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 31 64 0 f/f/f/f/f/EcEMCrEtCrCrELEbf/f/f/aGaHaIf/IQIRf/EQCqCqDVf/f/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/f/f/f/f/f/f/f/f/f/AAABf/f/f/f/f/f/
+BOARD 0 32 64 0 f/f/f/f/f/f/EcEMCrCrCrCrELEbf/f/f/f/f/f/f/f/E/E4CqCrDVf/f/f/f/f/f/f/AAABf/f/f/EAEBECEEEFf/f/f/f/f/ACADf/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 33 64 0 f/f/f/f/f/f/f/EcCoCoCoEMCrELCpCpCpCpCpCpCpCpE4CqCrENEdf/f/f/f/E/Ebf/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/ASATf/f/f/f/f/f/f/f/AQf/f/f/f/
+BOARD 0 34 64 0 f/f/f/f/f/f/f/f/f/f/f/EcEMCrCrCrCqCrCrCrCrCqCrCrENEdf/f/f/H/H/E/EbH/H/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 35 64 0 f/f/f/AAABf/f/f/f/f/f/f/EcEMCrCrCqCqCqCrCqCrCrENEdf/f/f/f/E/E/E4ELEbEbf/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 36 64 0 f/f/f/f/f/f/f/f/f/f/f/f/f/EcCoCoCoCoCoCoCoCoCoEdf/f/f/f/f/EcEcEMENEdEdf/f/f/f/f/f/f/f/EAEBECEEEFf/f/f/AAABf/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 37 64 0 f/f/f/H/F2FmF3f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/H/H/EcEdH/H/f/AAABf/H/E/EbH/f/EAEBECEEEFf/f/f/f/f/f/f/f/AAABf/ACADf/f/
+BOARD 0 38 64 0 f/f/f/F2GGAPGHF3AAABf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/H/H/EcEdH/H/f/f/f/f/E/E4ELEbf/f/EAEBECEEEFf/f/f/f/f/f/f/f/f/f/ASATf/f/
+BOARD 0 39 64 0 f/f/f/GIGJEtFoFpf/f/f/f/f/DwCfCeCfCeCfCeEFf/f/f/f/f/AAABf/f/f/f/f/AAABf/f/f/f/EcEMENEdf/f/f/EAEBECEEEFf/f/f/f/FiFjFkFlf/f/f/f/f/
+BOARD 0 40 64 0 f/f/f/H/GIF4FpH/f/f/H/H/DwDWCuCvCuCvCuCvDdEFf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/AAABH/EcEdH/f/f/f/f/EAEBECEEEFf/f/f/FyFIFJF1f/f/f/f/f/
+BOARD 0 41 64 0 f/f/AAABf/f/f/f/H/H/H/DwDWDyCZCYCZCYCZCYEDDdEFf/f/f/f/f/f/AAABf/f/ACADf/f/f/f/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/f/GCFYFZGFf/f/f/f/f/
+BOARD 0 42 64 0 f/f/f/f/f/f/f/f/H/H/DwDxDyDzC/C+C/C+C/C+ECEDDdEFf/f/f/f/f/f/f/f/f/ASATf/AAABf/f/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/GSGTGUGVf/f/f/f/f/
+BOARD 0 43 64 0 f/f/f/f/f/AAABf/H/DwDxDyDzD0CoCoCoCoCoCoEBECEDDdEFf/f/f/f/f/f/f/f/E/Ebf/f/f/f/f/f/AAABf/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/f/f/f/f/f/
+BOARD 0 44 64 0 f/f/f/f/f/f/f/f/DwDxDyDzD0D1AJAKALAMANAOEAEBECEDDdEFf/f/f/f/f/f/E/E4ELEbf/f/f/f/f/f/f/f/f/AAABf/f/f/f/EAEBECEEEFf/f/f/f/AAABf/f/
+BOARD 0 45 64 0 f/f/f/ACADf/f/DwDWDyDzD0D1AYAZAaAbAcAdAeAfEAEBECEDDdEFf/f/f/f/f/EcEMENEdf/f/f/H/F2F3f/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/f/f/f/
+BOARD 0 46 64 0 f/f/f/ASATf/DwDxDyDzD0D1f/AoApAqArAsAtAuAvf/EAEBECEDDdEFf/f/AAABH/EcEdf/f/f/f/F2GGGHF3f/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/f/f/f/f/f/
+BOARD 0 47 64 0 f/f/f/H/H/DwDWDyDzD0D1f/f/A4A5A6A7A8A9A+A/f/f/EAEBECEDDdEFf/f/f/H/f/f/f/AAABf/GIGJFoFpf/f/f/AAABf/f/f/f/f/f/EAEBECEEEFf/f/f/f/f/
+BOARD 0 48 64 0 f/H/H/H/DwDWDyDzD0D1f/f/f/BIBJBKBLBMBNBOBPf/f/f/EAEBECEDDdEFf/f/H/H/f/f/H/H/f/H/GIFpH/f/f/f/f/f/ACADf/f/f/f/f/EAEBECEEEFf/f/f/f/
+BOARD 0 49 64 0 f/H/H/DwDxDyDzD0D1f/f/f/f/BYBZBaBbBcBdBeBff/f/f/f/EAEBECEDDdEFf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/ASATf/f/f/AAABf/EAEBECEEEFf/f/f/
+BOARD 0 50 64 0 f/H/DwDxDyDzD0D1f/f/f/AJAKALAMDCDDDADBDCAMANAOf/f/f/EAEBECEDDdEFf/f/f/f/f/f/f/AAABf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/f/
+BOARD 0 51 64 0 f/DwDxDyDzD0D1f/f/f/AYAZAaAbAcAdAeAZAaAbAcAdAeAff/f/f/EAEBECEDDdEFf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/EAEBECEEEFf/
+BOARD 0 52 64 0 DwDWDyDzD0D1H/f/f/f/AoApAqArAsAtAuApAqArAsAtAuAvf/f/f/f/EAEBECEDDdEFf/f/f/f/f/f/f/f/f/f/AAABf/f/DwCfCeEFf/f/f/f/f/f/f/EAEBECEEEF
+BOARD 0 53 64 0 DxDyDzD0D1f/f/f/AAABA4A5A6A7A8A9A+A5A6A7A8A9A+A/f/f/f/f/f/EAEBECEDDdEFf/f/f/f/AAABf/f/f/f/f/f/DwDWCuCvDdEFf/f/f/f/f/f/f/EAEBECEE
+BOARD 0 54 64 0 DyDzD0D1f/f/f/f/f/f/BIBJBKBLBMBNBOBJBKBLBMBNBOBPf/f/f/f/f/f/EAEBECEDDdEFf/f/f/f/f/f/f/f/f/f/DwDWDyCZCYEDDdEFf/f/f/f/f/f/f/EAEBEC
+BOARD 0 55 64 0 DzD0D1f/f/f/f/f/f/f/BYBZBaBbBcBdBeBZBaBbBcBdBeBff/f/f/f/f/f/f/EAEBECEDDdEFf/f/f/f/f/f/f/f/DwDWDyDzC/C+ECEDDdEFf/f/f/f/f/f/f/EAEB
+BOARD 0 56 64 0 D0D1f/f/f/f/f/f/f/f/BoBpBqBrDADBALAMDCDDBsBtBuBvAAABf/f/f/f/f/f/EAEBECEDDdEFf/f/f/f/f/f/DwDWDyDzD0CoCoEBECEDDdEFf/f/f/f/f/f/f/EA
+BOARD 0 57 64 0 D1f/f/f/f/f/f/f/f/f/B4B5B6DQAZAaAbAcAdAeDRB9B+B/f/E/Ebf/f/AAABf/f/EAEBECEDDdCfCeCfCeCfCeDWDyDzD0D1f/f/EAEBECEDDdEFf/f/f/f/f/f/f/
+BOARD 0 58 64 0 f/f/ACADf/f/AAABf/f/f/CJCKDgApAqArAsAtAuDhCNCOf/E/E4ELEbf/f/f/f/f/f/EAEBECEDCuCvCuCvCuCvDyDzD0D1f/f/f/f/EAEBECEDDdCfCeCfCeEFf/f/
+BOARD 0 59 64 0 f/f/ASATf/f/f/f/f/f/f/f/CaA4A5A6A7A8A9A+A/Cdf/f/EcEMENEdf/f/f/f/f/f/f/EAEBECCZCYCZCYCZCYDzD0D1f/f/AAABf/f/EAEBECEDCuCvCuCvDdEFf/
+BOARD 0 60 64 0 f/f/f/f/f/f/f/f/f/f/f/f/f/BIBJBKBLBMBNBOBPf/f/f/H/EcEdf/f/f/f/f/ACADf/f/EAEBC/C+C/C+C/C+D0D1f/f/f/f/f/f/f/f/EAEBECCZCYCZCYEDDdEF
+BOARD 0 61 64 0 f/f/f/f/f/AAABf/f/f/f/f/f/BYBZBaBbBcBdBeBff/f/f/f/f/f/AAABf/f/f/ASATf/f/f/EACoFGFHCoCoCoD1f/AAABf/ACADAAABf/f/EAEBC/C+C/C+ECEDDd
+BOARD 0 62 64 0 f/f/f/f/f/f/f/f/f/f/f/f/f/BoBpBqBrBsBtBuBvf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/FGFYFZFHf/f/f/f/f/f/f/ASATf/f/f/f/f/EACoCoCoCoEBECED
+BOARD 0 63 64 0 f/f/f/f/f/f/f/f/f/f/f/f/f/B4B5B6B7B8B9B+B/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/FWFXFWFXf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/EAEBEC
+LINK collab1_b-3.nw 0 0 1 64 61 playery
+LINK collab1_c-2.nw 0 0 64 1 playerx 61
+NPC - 0 0
+// Collaboration started by Niklas (Darklux)
+// Level designed by Neo (Deas_Voice)
+
+addtiledef collaboration_tileset.png,collab,0;
+loadmap classic_collaboration;
+NPCEND
+NPC - 55 21
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,head0.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,white;
+  setcharprop #C2,blue;
+  setcharprop #C3,red;
+  setcharprop #C4,black;
+  setcharprop #2,shield1.gif;
+  shieldpower = 1;
+  dir = 2;
+  setcharani sit,;
+}
+NPCEND
+NPC - 53 21
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,head2.png;
+  setcharprop #C0,white;
+  setcharprop #C1,white;
+  setcharprop #C2,orange;
+  setcharprop #C3,lightblue;
+  setcharprop #C4,lightblue;
+  setcharprop #2,shield1.gif;
+  shieldpower = 1;
+  dir = 2;
+  setcharani sit,;
+}
+NPCEND

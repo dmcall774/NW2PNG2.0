@@ -1,0 +1,128 @@
+GLEVNW01
+BOARD 0 0 64 0 f/f/f/f/f/f/f/f/f/f/AAABAAABf/f/ARBgARAhf/f/f/f/f/f/f/f/f/f/f/F2HEHFHEHFHXf/f/f/f/f/f/F2HEHFHXf/HkH0GOG4FCFCGrH0GOHnF3f/f/f/f/f/
+BOARD 0 1 64 0 f/f/f/f/K3AAABf/f/f/f/AAABK4f/f/Agf/Ahf/f/f/G2HEHFHXf/f/f/f/F2HGGOGOH0GOHnHEHFHEHFHEHFHGGOGOHnHFHGGOHIFCFCFCFCH6GOH1G7f/f/f/f/f/
+BOARD 0 2 64 0 f/f/f/f/AAABAAABZvf/f/f/ARBgARBgARf/f/f/f/G2HGGOGOHnHEHFHEHFHGGOGOGOGOGOGOGOGOGOGOGOGOHIHYHZHYHZH6HIFCFCFCFCFCFCH6GOG7f/f/f/f/f/
+BOARD 0 3 64 0 f/f/f/Zvf/AAABK4f/f/f/f/Agf/AhBwAhf/f/f/G2HGGOHIH6GOH1GOH0GOHIH6GOGOHIHYHZHYHZHYHZHYHZFCFCFCFCFCFCFCFCFCFCFCFCFCG5GOG7f/f/f/f/f/
+BOARD 0 4 64 0 f/AAABf/K4f/f/f/ARBgARBgARf/K3K3K3f/f/G2HGGOHIFCG5GOGOGOGOGOHJG5GOGOHJGYGZFCFCFCFCFCFCFCFCFCFCFCFCGYGZFCFCFCFCG5GOG3HHf/f/f/f/f/
+BOARD 0 5 64 0 f/f/f/f/f/f/f/f/Agf/AhBwAhf/AAABAAABf/HUGOH1HJG5GOG3H2H3H2H3H2H3GWGOH1GOGOHJFCFCFCFCFCFCGYGZGYGZG5H0GOHJGYGZG5GOG3HHf/f/f/f/f/AQ
+BOARD 0 6 64 0 CpEbf/f/ARBgARBgARK3AAABK4f/f/AAABK4f/HkGOGOG3H2H3HHf/f/f/f/f/f/GmGWGOH0GOGOHJGYGZGYGZG5GOGOGOG3H2H3H2H3H2H3H2H3HHf/f/f/f/f/AAAB
+BOARD 0 7 64 0 CqDVf/f/AhBwAhBwAhf/f/Zvf/f/f/f/f/f/f/GmH2H3HHf/f/f/f/f/f/f/f/f/f/GmH2H3GWGOGOGOGOGOGOG3H2H3H2HHf/f/f/f/AAABf/f/f/f/f/f/f/f/f/f/
+BOARD 0 8 64 0 CoEdAJAKALAMANAOAJAKALAMANAOAJAKALAMANAOAJAKALAMANAOAJAKALAMANAOf/f/f/f/GmH2H3H2H3H2H3HHf/f/f/f/f/f/f/AAABAAABf/f/f/f/f/f/f/f/f/
+BOARD 0 9 64 0 f/AYAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAff/AAABf/GgGhGiGjf/f/f/f/f/f/f/f/f/AAABAAABAAABf/f/f/f/f/f/f/f/
+BOARD 0 10 64 0 f/AoApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuAvAAABf/f/GwGxGyGzf/f/f/f/f/f/f/f/f/f/AAABf/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 11 64 0 f/A4A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A/f/f/f/f/HAHBHCHDZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZv
+BOARD 0 12 64 0 f/BIBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBPf/f/f/f/HQHRHSHTZvarZParZParZParZParZParZParZParZParZParZParZP
+BOARD 0 13 64 0 f/BYBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBff/f/f/f/HgHhHiHjZvZfapaqapaqapaqapaqapaqapaqapaqapaqapaqapaqap
+BOARD 0 14 64 0 f/BoBpBqBrBsBtBuBpBqBrDADBALAMDCDDBsBtBuBpBqBrDADBALAMDCDDDADBALAMANAOf/f/HwHxHyHzZvZPa5a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6a5
+BOARD 0 15 64 0 f/B4B5B6B7B8B9B+B5B6DQAZAaAbAcAdAeZYB9B+B5B6DQAZAaAbAcAdAeAZAaAbAcAdAeAff/f/f/f/f/ZvZfapaqa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7
+BOARD 0 16 64 0 f/f/CJCKCLCMCNCOCJCKDgApAqArAsAtAuDhCNCOCJCKDgApAqArAsAtAuApAqArAsAtAuAvf/f/f/f/f/ZvZPa5a6arZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZv
+BOARD 0 17 64 0 f/f/f/CaCbCcCdf/f/CaA4A5A6A7A8A9A+A/Cd5r5tCaA4A5A6A7A8A9A+A5A6A7A8A9A+A/f/AAABf/f/ZvZfapaqa7Zvf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 18 64 0 f/f/f/f/f/f/f/f/f/f/BIBJBKBLBMBNBOBPAQ5759AQBIBJBKBLBMBNBOBJBKBLBMBNBOBPAAABAAABf/ZvZPa5a6arZvf/ARBgARBgARBgARBgARBgARBgARBgARBg
+BOARD 0 19 64 0 f/f/f/AQf/f/f/f/f/f/BYBZBaBbBcBdBeBfAQ6L6NAQBYBZBaBbBcBdBeBZBaBbBcBdBeBff/AAABf/f/ZvZfapaqa7Zvf/AgBwAhBwAhBwAhBwAhBwAhBwAhBwAhBw
+BOARD 0 20 64 0 f/f/AAABf/f/f/f/f/f/BoBpBqBrBsBtBuBvAQAQAQAQBoBpBqBrBsBtBuBpBqBrDADBALAMANAOf/f/f/ZvZPa5a6arZvf/ARAQAQAQAQAQAQAQAQAQAQAQAQAQAQAQ
+BOARD 0 21 64 0 f/f/f/f/f/f/f/AAABf/B4B5B6B7B8B9B+B/f/f/f/f/B4B5B6B7B8B9B+B5B6DQAZAaAbAcAdAeAff/f/ZvZfapaqa7Zvf/AgAQf/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 22 64 0 f/f/f/f/f/f/f/f/AAABf/CJCKCLCMCNCOf/f/f/f/f/f/CJCKCLCMCNCOCJCKDgApAqArAsAtAuAvf/f/ZvZPa5a6arZvf/ARAQf/ZvAwAxZvf/f/f/f/f/f/f/f/f/
+BOARD 0 23 64 0 f/f/f/f/f/f/f/f/f/AAABf/CaCbCcCdf/f/ZvAwAxZvf/f/CaCbCcCdf/f/CaA4A5A6A7A8A9A+A/f/f/ZvZfapaqa7ZvVgVhViVjVjVjVjVjVjVlVmVnP/f/f/f/f/
+BOARD 0 24 64 0 f/f/SBSCSDSESFSGf/f/f/f/f/f/YHYIYIYIYIYIYIYIYIYIYIYIYJf/f/f/f/BIBJBKBLBMBNBOBPf/f/ZvZPa5a6arZvVwVxVyVzV0V0V0V0VzV1VxWRByf/f/f/f/
+BOARD 0 25 64 0 f/SQSRSSSTSUSVSWSXf/asatauavYXYYYYYYYYYYYYYYYYYYYYYYYZf/f/f/f/BYBZBaBbBcBdBeBff/f/ZvZfapaqa7ZvVwVxVyV0V0V0V0V0V0V1VxWRCCf/f/f/f/
+BOARD 0 26 64 0 f/SgShSiSjSkSlSmSnf/a8a9a+a/YXYYYYYYYYYYYYYYYYYYYYYYYZByf/AJAKALAMDCDDBsBtBuBvf/f/ZvZPa5a6arZvVwVxVyVzV0V0V0V0VzV1VxWRCCf/f/f/f/
+BOARD 0 27 64 0 f/SwSxSySzS0S1S2S3f/bMbNbObPYXYYYYYYYYYYYYYYYYYYYYYYYZCCAYAZAaAbAcAdAeDRB9B+B/f/f/ZvZfapaqa7ZvVwWBWCWDWDWDWDWDWDV2WAWRCCf/f/f/f/
+BOARD 0 28 64 0 f/TATBTCTDTETFTGTHf/bcbdbebfYXYYYYYYYYYYYYYYYYYYYYYYYZCCAoApAqArAsAtAuDhCNCOf/f/f/ZvZPa5a6arZvVwWSVxVxVxVxVxVxVxVxWQWRCCf/f/f/f/
+BOARD 0 29 64 0 f/TQTRTSTTTUTVTWTXf/f/f/f/f/YXYYYYYYYYYYYYYYYYYYYYYYYZCCA4A5A6A7A8A9A+A/Cdf/AQf/f/ZvZfapaqa7ZvVQWiVxVxWEWFWGWHVxVxWgWhCCf/f/f/f/
+BOARD 0 30 64 0 f/BoThTiTjTkTlTmBvf/f/f/f/f/YXYYYYYYYMYNYOYPYYYYYYYYYZCCBIBJBKBLBMBNBOBPf/f/AAABf/ZvZPa5a6arZvCQCRCRCRB0B1B2B3CRCRCRBzCCACADACAD
+BOARD 0 31 64 0 f/B4B5B6W1W2B9B+B/f/f/f/f/f/YKYcYcYcB0B1B2B3YcYcYcYcYLCCBYBZBaBbBcBdBeBff/f/f/f/f/ZvZfapaqa7ZvCgChCiCjCECFCGCHChCiCjCDCCASATASAT
+BOARD 0 32 64 0 f/f/CJCKCLCMCNCOf/f/f/f/f/f/CgChCiCjCECFCGCHChCjChCjCDCCBoBpBqBrDADBALAMANAOf/f/f/ZvZPa5a6arZvCwCxCyCzCUCVCWCXCxCyCzCTCSAQAQAQAQ
+BOARD 0 33 64 0 f/f/f/CaCbCcCdf/f/f/f/f/f/f/CwCxCyCzCUCVCWCXCxCzCxCzCTCSB4B5B6DQAZAaAbAcAdAeAff/f/ZvZfapaqa7ZvP/P/P/P/BEZvZvBEP/ARBgARBgARBgARBg
+BOARD 0 34 64 0 f/f/f/f/f/f/f/f/ZvZvZvZvZvZvf/f/f/f/BEZvZvBEf/f/ZvZvf/f/f/CJCKDgApAqArAsAtAuAvf/f/ZvZPa5a6arZvAwAxAwAxAwAxZvZvP/AhBwAhBwAhBwAhBw
+BOARD 0 35 64 0 f/f/f/f/f/f/f/ZvAwAxAwAxAwAxZvZvZvZvZvAwAxZvZvZvAwAxZvf/f/f/CaA4A5A6A7A8A9A+A/f/f/ZvZfapaqa7ZvZvAwAxZvZvAwAxf/f/f/f/f/f/f/f/f/f/
+BOARD 0 36 64 0 f/f/f/f/f/ZvZvAwAxAwAxZvZvAwAxAwAxAwAxAwAxAwAxAwAxAwAxZvf/f/f/BIBJBKBLBMBNBOBPf/f/ZvZPa5a6arZvf/f/f/f/f/f/f/AAABAAABf/f/f/f/f/f/
+BOARD 0 37 64 0 f/f/f/f/ZvAwAxZvZvZvZvf/f/ZvZvZvZvZvAwAxZvZvZvZvZvZvZvf/f/AAABBYBZBaBbBcBdBeBff/f/ZvZfapaqa7Zvf/f/f/f/f/f/AAABAAABAAABf/f/f/f/f/
+BOARD 0 38 64 0 AOf/f/f/f/ZvZvf/f/f/f/AJAKALAMANAOAJAKALAMANAOAJAKALAMANAOAJAKALAMDCDDBsBtBuBvf/f/ZvZPa5a6arZvf/f/f/f/f/f/f/AAABAAABAAABf/f/f/f/
+BOARD 0 39 64 0 AeAff/ZvAwAxZvf/f/f/AYAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeAZAaAbAcAdAeDRB9B+B/f/f/ZvZfapaqa7Zvf/f/f/f/f/f/f/f/AAABf/f/f/f/f/f/f/
+BOARD 0 40 64 0 AuAvf/f/ZvZvf/f/f/f/AoApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuApAqArAsAtAuDhCNCOf/f/f/ZvZPa5a6arZvf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 41 64 0 A+A/f/ZvAwAxZvf/f/f/A4A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A5A6A7A8A9A+A/Cdf/f/f/f/ZvZfapaqa7Zvf/f/f/f/f/f/f/f/f/f/f/f/f/f/AAABf/
+BOARD 0 42 64 0 BOBPf/ZvZvf/f/f/f/f/BIBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBJBKBLBMBNBOBPAAABf/f/f/ZvZPa5a6arZvf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/AAAB
+BOARD 0 43 64 0 BeBfZvAwAxZvf/f/f/f/BYBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBZBaBbBcBdBeBff/AAABf/f/ZvZfapaqa7Zvf/f/f/f/f/f/ZvZvZvZvf/f/f/f/f/f/f/
+BOARD 0 44 64 0 BuBvf/ZvZvf/f/f/AJAKALAMDCDDBsBtBuBpBqBrBsBtBuBpBqBrBsBtBuBpBqBrBsBtBuBvf/f/f/f/f/ZvZPa5a6arZvf/f/ZvZvZvZvZvZvZvbibjZvZvZvf/f/f/
+BOARD 0 45 64 0 B+B/f/ZvAwAxZvAYAZAaAbAcAdAeDRB9B+B5B6B7B8B9B+B5B6B7B8B9B+B5B6B7B8B9B+B/f/f/f/f/f/ZvZfapaqa7Zvf/f/ZvarZPararZPbibybzbjZPZvf/f/f/
+BOARD 0 46 64 0 COf/f/f/ZvZvf/AoApAqArAsAtAuDhCNCOCJCKCLCMCNCOCJCKCLCMCNCOCJCKCLCMCNCOf/f/f/f/f/f/ZvZPa5a6arZvf/f/ZvZPa6a5a6a5bybibjbzZPZvf/f/f/
+BOARD 0 47 64 0 f/f/f/ZvAwAxZvA4A5A6A7A8A9A+A/Cdf/f/CaCbCcCdf/f/CaCbCcCdf/f/CaCbCcCdf/f/f/f/f/f/f/ZvZfapaqa7Zvf/ZvZvZfaqapaqapaqbybzapZfZvZvf/f/
+BOARD 0 48 64 0 f/f/f/ZvZvf/f/BIBJBKBLBMBNBOBPf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/ZvZPa5a6arZvf/ZvZvZPa6a5a6a5a6a5a6a5ZPZvZvf/f/
+BOARD 0 49 64 0 f/f/ZvAwAxZvf/BYBZBaBbBcBdBeBff/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/ZvZfapaqa7Zvf/ZvZvZfaqapaqapaqapaqapZfZvZvf/f/
+BOARD 0 50 64 0 f/f/f/ZvZvf/f/BoBpBqBrBsBtBuBvf/f/f/f/f/f/f/f/asatauavf/f/f/AQf/f/f/f/f/AAABf/f/f/ZvZPa5a6arZvf/ZvZvZPa6a5a6a5a6a5a6a5ZPZvZvf/f/
+BOARD 0 51 64 0 f/f/f/ZvAwAxZvB4B5B6B7B8B9B+B/f/f/AAABAAABf/f/a8a9a+a/f/f/f/AAABf/f/f/f/f/f/AAABf/ZvZfapaqa7Zvf/f/ZvZfaqapaqapaqapaqapZfZvf/f/f/
+BOARD 0 52 64 0 f/f/f/f/ZvZvf/f/CJCKCLCMCNCOf/f/AAABAAABAAABf/bMbNbObPf/f/f/f/f/f/f/f/f/f/AAABf/f/ZvZPa5a6arZvf/f/ZvZParZPZPa5a6ZParZPZPZvf/f/f/
+BOARD 0 53 64 0 f/f/f/ZvAwAxZvf/f/CaCbCcCdf/f/AAABAAABAAABf/f/bcbdbebff/f/f/f/f/f/f/f/f/f/f/f/IAIBZvZfapaqa7Zvf/f/ZvZvZvZvZfapaqa7ZvZvZvZvf/f/f/
+BOARD 0 54 64 0 AAABf/f/ZvAwAxZvf/f/f/f/f/f/f/f/AAABAAABf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/IQIRZvZPa5a6arZvf/f/f/f/f/ZvZPa5a6arZvf/f/f/f/f/f/
+BOARD 0 55 64 0 CpCpDnf/f/ZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZfapaqa7ZvZvZvZvZvZvZvZfapaqa7ZvZvZvZvZvZvZv
+BOARD 0 56 64 0 C5C6D3Dnf/f/f/f/ZvZParZParZPararZParZParZParZPararZParZParZParZPararZParZParZParZPZPZPa5a6ararZParZParZPZPZPa5a6arararZParZParZP
+BOARD 0 57 64 0 DJDKC4D3Dnf/f/f/ZvZfapaqapaqapapaqapaqapaqapaqapapaqapaqapaqapaqapapaqapaqapaqapaqaqapaqapaqapaqapaqapaqapaqapaqapaqapaqapaqapaq
+BOARD 0 58 64 0 DZDaDIC4D3Dnf/f/ZvZPa5a6a5a6a5a5a6a5a6a5a6a5a6a5a5a6a5a6a5a6a5a6a5a5a6a5a6a5a6a5a6a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6a5a6
+BOARD 0 59 64 0 DpDqDYDIC4D3Dnf/ZvZfa7Zfa7Zfa7a7Zfa7Zfa7Zfa7Zfa7a7Zfa7Zfa7Zfa7Zfa7a7Zfa7Zfa7Zfa7ZfZfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zfa7Zf
+BOARD 0 60 64 0 D5D6GADYDIC4D3DnZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZvZv
+BOARD 0 61 64 0 f/f/D4GADYDIC4D3CpCpCpCpDnf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 62 64 0 f/f/f/D4GADYDIC4C5C6C5C6D3Dnf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/AAABf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+BOARD 0 63 64 0 f/f/f/f/D4GADYDIDJDKDJDKC4D3Dnf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/AAABAAABf/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/f/
+LINK collab1_a-2.nw 0 0 1 64 61 playery
+LINK collab1_c-2.nw 63 0 1 64 0 playery
+LINK collab1_b-1.nw 0 0 64 1 playerx 61
+LINK collab1_b-3.nw 0 63 64 1 playerx 0
+NPC - 0 0
+// Collaboration started by Niklas (Darklux)
+// Level designed by Nickname (Account)
+
+addtiledef collaboration_tileset.png,collab,0;
+loadmap classic_collaboration;
+NPCEND
+NPC - 44 3
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,head19.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,gray;
+  setcharprop #C2,gray;
+  setcharprop #C3,brown;
+  setcharprop #C4,black;
+  setcharprop #2,shield1.gif;
+  shieldpower = 1;
+  dir = 1;
+  setcharani swim,;
+}
+NPCEND
+NPC - 36 56
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,head7.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,darkblue;
+  setcharprop #C2,brown;
+  setcharprop #C3,black;
+  setcharprop #C4,brown;
+  setcharprop #2,shield1.gif;
+  shieldpower = 1;
+  dir = 1;
+  setcharani walk,;
+}
+NPCEND
+NPC - 42 42
+// Graal2002 NPC by Stefan Knorr
+if (created) {
+  // Initialize the attributes
+  showcharacter;
+  setcharprop #3,head16.png;
+  setcharprop #C0,orange;
+  setcharprop #C1,gray;
+  setcharprop #C2,darkblue;
+  setcharprop #C3,darkblue;
+  setcharprop #C4,darkblue;
+  setcharprop #2,shield1.gif;
+  shieldpower = 1;
+  dir = 2;
+  setcharani walk,;
+  x += .5;
+}
+NPCEND

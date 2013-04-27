@@ -1,0 +1,58 @@
+<project name="NW2PNG" default="dist" basedir=".">
+    <description>
+        build file for NW2PNG
+    </description>
+  <!-- set global properties for this build -->
+  <property name="src" location="../src"/>
+  <property name="build" location="temp"/>
+  <property name="dist"  location="../"/>
+  <path id="classpath">
+    <fileset dir="${dist}/lib" includes="**/*.jar"/>
+  </path>
+
+  <target name="init">
+    <!-- Create the time stamp -->
+    <tstamp/>
+    <!-- Create the build directory structure used by compile -->
+    <mkdir dir="${build}"/>
+  </target>
+
+  <target name="compile" depends="init"
+        description="compile the source " >
+    <!-- Compile the source -->
+    <javac srcdir="${src}" classpathref="classpath" destdir="${build}"/>
+  </target>
+
+  <target name="dist" depends="compile"
+        description="generate the CLI and GUI files" >
+    <!-- JAR the GUI -->
+    <manifestclasspath property="jar.classpath.gui" jarfile="${dist}/NW2PNG-gui.jar">
+      <classpath refid="classpath"/>
+    </manifestclasspath>
+
+    <jar jarfile="${dist}/NW2PNG-gui.jar" basedir="${build}">
+      <manifest>
+        <attribute name="Class-Path" value="${jar.classpath.gui}" />
+        <attribute name="Main-Class" value="org.graalcenter.nw2png.GraphicalNW2PNG"/>
+      </manifest>
+    </jar>
+    
+    <!-- JAR the CLI -->
+    <manifestclasspath property="jar.classpath.cli" jarfile="${dist}/NW2PNG-cli.jar">
+      <classpath refid="classpath"/>
+    </manifestclasspath>
+
+    <jar jarfile="${dist}/NW2PNG-cli.jar" basedir="${build}">
+      <manifest>
+        <attribute name="Class-Path" value="${jar.classpath.cli}" />
+        <attribute name="Main-Class" value="org.graalcenter.nw2png.CommandLineNW2PNG"/>
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="clean" description="clean up" >
+    <delete dir="${build}"/>
+    <delete file="${dist}/NW2PNG-gui.jar"/>
+    <delete file="${dist}/NW2PNG-cli.jar"/>
+  </target>
+</project>

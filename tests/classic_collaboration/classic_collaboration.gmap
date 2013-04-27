@@ -1,0 +1,11 @@
+GRMAP001
+WIDTH 3
+HEIGHT 3
+MAPIMG collaboration_map.png
+MINIMAPIMG
+
+LEVELNAMES
+"collab1_a-1.nw","collab1_b-1.nw","collab1_c-1.nw"
+"collab1_a-2.nw","collab1_b-2.nw","collab1_c-2.nw"
+"collab1_a-3.nw","collab1_b-3.nw","collab1_c-3.nw"
+LEVELNAMESEND
